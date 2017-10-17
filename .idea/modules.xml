@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AtlasDemo.iml" filepath="$PROJECT_DIR$/AtlasDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitygroupcompat/activitygroupcompat.iml" filepath="$PROJECT_DIR$/activitygroupcompat/activitygroupcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databindbundle/databindbundle.iml" filepath="$PROJECT_DIR$/databindbundle/databindbundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstbundle/firstbundle.iml" filepath="$PROJECT_DIR$/firstbundle/firstbundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottie/lottie.iml" filepath="$PROJECT_DIR$/lottie/lottie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/middlewarelibrary/middlewarelibrary.iml" filepath="$PROJECT_DIR$/middlewarelibrary/middlewarelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publicbundle/publicbundle.iml" filepath="$PROJECT_DIR$/publicbundle/publicbundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remotebundle/remotebundle.iml" filepath="$PROJECT_DIR$/remotebundle/remotebundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondbundle/secondbundle.iml" filepath="$PROJECT_DIR$/secondbundle/secondbundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondbundlelibrary/secondbundlelibrary.iml" filepath="$PROJECT_DIR$/secondbundlelibrary/secondbundlelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splashscreen/splashscreen.iml" filepath="$PROJECT_DIR$/splashscreen/splashscreen.iml" />
+    </modules>
+  </component>
+</project>

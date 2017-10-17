@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$USER_HOME$/gradle-3.3-all/gradle-3.3" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/activitygroupcompat" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/databindbundle" />
+            <option value="$PROJECT_DIR$/firstbundle" />
+            <option value="$PROJECT_DIR$/lottie" />
+            <option value="$PROJECT_DIR$/middlewarelibrary" />
+            <option value="$PROJECT_DIR$/publicbundle" />
+            <option value="$PROJECT_DIR$/remotebundle" />
+            <option value="$PROJECT_DIR$/secondbundle" />
+            <option value="$PROJECT_DIR$/secondbundlelibrary" />
+            <option value="$PROJECT_DIR$/splashscreen" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
